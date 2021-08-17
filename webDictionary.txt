@@ -1,0 +1,7 @@
+AJAX - Asynchronicous Javascript AND XML
+Css - Casacading Style Sheet
+Html - Hypertext Markup language
+PHP - PHP
+SQL - Stuructured Query
+SUG - Scalable Vector Graphics
+XML - Extensible Markup language
