@@ -1,2 +1,2 @@
 
-<h1 color="blue"> File Handling </h1>
+<h1> File Handling </h1>
